@@ -5,7 +5,7 @@ Choose your nationality
 
 A. [American](/a.md)
 
-B. 
+B. [Nigerian](/b.md)
 
 C.
 
