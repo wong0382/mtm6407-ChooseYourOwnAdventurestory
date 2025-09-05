@@ -7,6 +7,6 @@ A. [American](/a.md)
 
 B. [Nigerian](/b.md)
 
-C.
+C. [Canadian](ChooseYourNationality_Canadian.md)
 
 D
