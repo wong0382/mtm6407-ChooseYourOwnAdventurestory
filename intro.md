@@ -3,10 +3,10 @@ Today I woke up, and it’s the second day of World War Three.
 
 Choose your nationality
 
-A
+A. [American](/a.md)
 
-B
+B. 
 
-C
+C.
 
 D
