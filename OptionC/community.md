@@ -4,8 +4,8 @@ You’ve managed to form or join a small survival group—whether in the basemen
 
 Choices:
 
-A. [Stay in Ottawa and defend your building]()
+A. [Stay in Ottawa and defend your building](stayHome.md)
 
-B. [Move as a group toward the border]()
+B. [Move as a group toward the border](goUS.md)
 
-C. [Head toward Toronto for safety]()
+C. [Head toward Toronto for safety](goToronto.md)

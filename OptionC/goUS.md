@@ -4,7 +4,7 @@ You drive toward the U.S. border. The traffic is overwhelming, and Canadian mili
 
 Choices:
 
-A. [Wait in line patientlyt]()
+A. [Wait in line patientlyt](inUS.md)
 
 B. [Try to take a hidden forest route](sneakIn.md)
 
