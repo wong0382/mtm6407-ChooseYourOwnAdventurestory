@@ -4,8 +4,8 @@ You knock on your neighbor’s door. They open it—scared, but armed with a bas
 
 Choices:
 
-A. [Offer some of your supplies](community.md)
+A. [Offer some of your supplies](/OptionC/community.md)
 
-B. [Lie and keep your supplies hidden](outside.md)
+B. [Lie and keep your supplies hidden](/OptionC/outside)
 
 C. [Convince them to flee with you]()

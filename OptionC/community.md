@@ -8,4 +8,4 @@ A. [Stay in Ottawa and defend your building]()
 
 B. [Move as a group toward the border]()
 
-C. [Head toward Toronto for safety]()
+C. [Head toward Toronto for safety](/OptionC/goToronto.md)
