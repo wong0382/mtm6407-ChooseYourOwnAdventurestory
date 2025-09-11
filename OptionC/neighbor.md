@@ -8,4 +8,4 @@ A. [Offer some of your supplies](/OptionC/community.md)
 
 B. [Lie and keep your supplies hidden](/OptionC/outside)
 
-C. [Convince them to flee with you]()
+C. [Convince them to flee with you](goUS.md)
