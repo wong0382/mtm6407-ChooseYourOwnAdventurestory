@@ -4,8 +4,8 @@ You stay inside your apartment, quickly gathering food, water, and whatever else
 
 Choices:
 
-A. [Check the basement for backup power](basement.md)
+A. [Check the basement for backup power](/OptionC/basement.md)
 
-B. [Head to your neighbor’s apartment](stayHidden.md)
+B. [Head to your neighbor’s apartment](/OptionC/stayHidden.md)
 
-C. [Go outside to see what’s happening](outside.md)
+C. [Go outside to see what’s happening](/OptionC/outside)
