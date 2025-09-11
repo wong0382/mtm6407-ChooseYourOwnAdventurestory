@@ -4,8 +4,8 @@ You go down to the basement of your building and find a small group of neighbors
 
 Choices:
 
-A. [Stay and build a mini-community with them](community.md)
+A. [Stay and build a mini-community with them](/OptionC/community.md)
 
-B. [Steal some supplies and leave](outside.md)
+B. [Steal some supplies and leave](/OptionC/outside)
 
-C. [Suggest moving together to the government shelter](goShelter.md)
+C. [Suggest moving together to the government shelter](/OptionC/goShelter.md)
