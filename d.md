@@ -10,3 +10,5 @@ You can either:
 A. [Stay in the apartment and wait for things to calm down](/OptionC/StayHome.md)
 
 B. [Venture out and try to reach out](/OptionC/outside)
+
+C. [Join your nerghboorhood and defent](/OptionC/neighbor.md)
